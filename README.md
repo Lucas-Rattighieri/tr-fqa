@@ -4,7 +4,7 @@ This repository contains two notebooks implementing **Feedback Quantum Algorithm
 
 ## Contents
 
-- **TR_FQA_Modelo_ANNNI.ipynb**  
+- **TR_FQA_ANNNI_Model.ipynb**  
   Implements the **Time-Rescaled Feedback Quantum Algorithm (TR-FQA)** for the **ANNNI model** (Axial Next-Nearest Neighbor Ising Model).  
   The notebook includes the Hamiltonian construction and the application of TR-FQA to approximate the ground state.
 
