@@ -18,7 +18,6 @@ This repository contains two notebooks implementing **Feedback Quantum Algorithm
 - Libraries:
   - `torch`
   - `numpy`
-  - `scipy`
   - `matplotlib`
   - `networkx`
 
